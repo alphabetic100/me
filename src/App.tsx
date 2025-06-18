@@ -57,7 +57,6 @@ export default function App() {
 
   // this should be run only once per application lifetime
   useEffect(() => {
-    setIsDark(true);
     initParticlesEngine(async (engine) => {
       // you can initiate the tsParticles instance (engine) here, adding custom shapes or presets
       // this loads the tsparticles package bundle, it's the easiest method for getting everything ready
