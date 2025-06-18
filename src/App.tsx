@@ -152,13 +152,13 @@ export default function App() {
       />}
       {/* Main Content */}
       <div className="flex flex-col items-center z-10">
-        <div className="flex flex-row items-center gap-6 mb-6">
+        <div className="flex flex-col items-center gap-6 mb-6">
           <img
             src={PROFILE_IMG}
             alt="Omar Faruk"
             className="rounded-full w-20 h-20 object-cover border border-gray-400 dark:border-white shadow-lg duration-200"
           />
-          <div className="flex flex-col items-start">
+          <div className="flex flex-col items-center">
             <h1 className="text-3xl font-semibold text-black dark:text-white mb-1 duration-200">
               Hi, I'm Omar Faruk
             </h1>
@@ -168,8 +168,6 @@ export default function App() {
           </div>
         </div>
         <div className="flex items-center gap-6 mb-8">
-          <span></span>
-          <span className="mr-5"></span>
           {LINKS.map((link) => (
             <a
               key={link.href}
