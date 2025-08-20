@@ -8,26 +8,26 @@ import profileImg from "./assets/my.png";
 const PROFILE_IMG = profileImg; // Placeholder, replace with your own if needed
 
 const LINKS = [
-  { href: "https://x.com/OmarFaruk0x01", icon: <Twitter size={22} />, label: "X" },
+  { href: "https://x.com/MDNazmul_69", icon: <Twitter size={22} />, label: "X" },
   {
-    href: "https://github.com/OmarFaruk-0x01",
+    href: "https://github.com/alphabetic100",
     icon: <Github size={22} />,
     label: "GitHub",
   },
   {
-    href: "https://linkedin.com/in/omarfaruk-0x01/",
+    href: "https://www.linkedin.com/in/md-nazmul-hasan-alphabetic100/",
     icon: <Linkedin size={22} />,
     label: "LinkedIn",
   },
   {
-    href: "mailto:programmer.omar.dev@gmail.com",
+    href: "mailto:dev.nazmul.alpha100@gmail.com",
     icon: <Mail size={22} />,
     label: "Email",
   },
   {
-    href: "https://corelab.info",
+    href: "https://hashnode.com/@alphabetic100",
     icon: <Layers2 size={22} className="font-bold text-lg" />,
-    label: "CoreLab",
+    label: "HashNode",
   },
 ];
 
