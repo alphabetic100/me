@@ -155,15 +155,15 @@ export default function App() {
         <div className="flex flex-col items-center gap-6 mb-6">
           <img
             src={PROFILE_IMG}
-            alt="Omar Faruk"
+            alt="MD Nazmul Hasan"
             className="rounded-full w-20 h-20 object-cover border border-gray-400 dark:border-white shadow-lg duration-200"
           />
           <div className="flex flex-col items-center">
             <h1 className="text-3xl font-semibold text-black dark:text-white mb-1 duration-200">
-              Hi, I'm Omar Faruk
+              Hi, I'm MD. Nazmul Hasan
             </h1>
             <p className="text-base text-gray-500 dark:text-gray-300 duration-200">
-              Product Engineer at <a href="https://klasio.com" className="hover:underline text-blue-400">Klasio</a>
+              Flutter Developer at <a href="https://smtech24.com/" className="hover:underline text-blue-400">SM Technology</a>
             </p>
           </div>
         </div>
