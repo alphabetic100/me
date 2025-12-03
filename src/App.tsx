@@ -163,7 +163,7 @@ export default function App() {
               Hi, I'm MD. Nazmul Hasan
             </h1>
             <p className="text-base text-gray-500 dark:text-gray-300 duration-200">
-              Flutter Developer at <a href="https://smtech24.com/" className="hover:underline text-blue-400">SM Technology</a>
+              Flutter Developer at <a href="https://a-cloud.tech/" className="hover:underline text-blue-400">Aesthetic Code Lab</a>
             </p>
           </div>
         </div>
